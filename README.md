@@ -36,7 +36,7 @@ Soy un estudiante de los últimos ciclos de Ingeniería de Sistemas, apasionado 
 
 #### 🚀 Frameworks y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,laravel,react,git,selenium,figma" />
+  <img src="https://skillicons.dev/icons?i=spring,laravel,react,git,selenium,figma,tailwind" />
 </p>
 
 #### 🗄️ Bases de Datos
